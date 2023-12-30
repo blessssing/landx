@@ -1,7 +1,12 @@
 @mixin fontRaleway() {
-  font-family: "Raleway", sans-serif;
+	font-family: "Raleway", sans-serif;
 }
 
 @mixin fontSourceSansPro() {
-  font-family: "Source Sans Pro", sans-serif;
+	font-family: "Source Sans Pro", sans-serif;
+}
+
+@mixin imageStyles() {
+	border-radius: 18px;
+	box-shadow: 5px -6px 24px -14px rgba(33, 33, 33, 1);
 }
