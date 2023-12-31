@@ -6,15 +6,37 @@ We need to install node.js version 14.16.1
 We can also use nvm-windows (Node Version Manager) to switch between node versions
 https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/
 
-## for development
+## Run Locally
 
-run > npm i
+Clone the project
 
-run > gulp
+```bash
+  git clone https://github.com/blessssing/landx.git
+```
 
-## for production build
+Go to the project directory
 
-run > gulp build
+```bash
+  cd landx
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Runs the app in the development mode
+
+```bash
+  gulp
+```
+
+Builds the app for production.
+
+```bash
+  gulp build
+```
 
 ## Project description
 
@@ -22,8 +44,8 @@ I wanted to display adaptive layout.
 
 In this project, I did not handle the form
 
-### Used technologies
+## 🛠 Skills
 
-- SCSS
 - HTML5
+- SCSS
 - Gulp4
