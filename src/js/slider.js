@@ -1,7 +1,7 @@
 const progressCircle = document.querySelector(".autoplay-progress svg");
 const progressContent = document.querySelector(".autoplay-progress span");
 
-const swiperProducts = new Swiper(".swiper", {
+const swiperProducts = new Swiper(".swiperProducts", {
 	direction: "horizontal",
 	loop: true,
 	speed: 1250,
