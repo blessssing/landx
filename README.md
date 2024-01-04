@@ -11,6 +11,7 @@ Here is a working live demo : [https://blessssing.github.io/build-landx](https:/
 - HTML5
 - SCSS
 - Gulp4
+- Swiper (slider)
 
 ## Run Locally
 
